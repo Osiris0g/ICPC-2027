@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//EJERCICIO 3 VARIABLES AL REVES//
 int main(){
     int miEntero;
     int miEntero2;
