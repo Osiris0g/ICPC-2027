@@ -11,7 +11,7 @@ Colección de ejercicios y problemas resueltos en C++ para practicar sintaxis, e
 
 | Carpeta | Tema | Ejercicios |
 |---------|------|-----------|
-| `01-basicos/` | Variables, condicionales, ciclos | 0 |
+| `01-basicos/` | Variables, condicionales, ciclos | 2 |
 | `02-funciones/` | Funciones, recursión | 0 |
 | `03-arreglos-strings/` | Arreglos, vectores, cadenas | 0 |
 | `04-estructuras-datos/` | Pilas, colas, listas, mapas, sets | 0 |
