@@ -95,5 +95,5 @@ Distribuido bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para m�
 
 ## 👤 Autor
 
-**Tu Nombre** — Estudiante de Ingeniería en Software, UADY
-[GitHub](https://github.com/TU_USUARIO) · [LinkedIn](https://linkedin.com/in/TU_USUARIO)
+Osiris Karim Aguirre Coli — Estudiante de Ingeniería en Software, UADY
+[GitHub](https://github.com/Osiris0g) · [LinkedIn](www.linkedin.com/in/osirisaguirre)
